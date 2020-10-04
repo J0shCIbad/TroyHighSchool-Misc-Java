@@ -1,0 +1,5 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Panel00()
+comment0.text=\r\n\ Constructs\ a\ panel,\ and\ instantiates\ the\ label\ for\ the\r\n\ random\ 16\ decimal\ value,\ and\ the\ random\ button,\ adding\ both\r\n\ components\ to\ the\ panel.\r\n
+numComments=1

@@ -1,0 +1,5 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Panel03()
+comment0.text=\r\n\ Constructs\ the\ JPanel\ with\ a\ FlowLayout,\ containing\ a\ JLabel,\r\n\ a\ JTextField,\ and\ 3\ JButtons\ labeled\ Set,\ Next,\ and\ Quit,\r\n\ each\ button\ is\ given\ a\ listener\ in\ order\ to\ fulfill\ their\ \r\n\ respective\ functions.\ Another\ label\ is\ added,\ displaying\ the\ \r\n\ number\ of\ iterations\ of\ hailstone\ number\ algorithms\ was\ used\r\n\ to\ obtain\ the\ number\ being\ displayed.\r\n
+numComments=1

@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Display07()
+comment0.text=\r\n\ Constructs\ a\ JPanel\ with\ a\ FlowLayout\ in\ which\ another\r\n\ JPanel\ and\ a\ label\ is\ being\ put\ in\ to.\ The\ inner\ JPanel\r\n\ also\ has\ a\ FlowLayout,\ in\ which\ two\ JTextFields\ are\r\n\ being\ added\ to.\r\n
+comment1.params=
+comment1.target=void\ showGCD()
+comment1.text=\r\n\ Displays\ the\ greatest\ common\ denominator\ of\ the\ two\ numbers\r\n\ inputed\ into\ the\ two\ JTextFields,\ box1\ and\ box2,\ by\ using\r\n\ the\ gcd\ helper\ method.\ \r\n
+comment2.params=
+comment2.target=void\ showLCM()
+comment2.text=\r\n\ Displays\ the\ lowest\ common\ multiple\ of\ the\ two\ numbers\ inputed\r\n\ into\ the\ two\ JTextFields,\ box1\ and\ box\ 2,\ by\ dividing\ the\r\n\ product\ of\ the\ two\ numbers\ by\ their\ greatest\ common\r\n\ denominator.\r\n\ \r\n\ Due\ to\ the\ definition\ of\ the\ lowest\ common\ multiple,\ the\ smallest\r\n\ positive\ integer\ is\ displayed.\r\n
+comment3.params=a\ b
+comment3.target=int\ gcd(int,\ int)
+comment3.text=\r\n\ Returns\ the\ greatest\ common\ denominator\ of\ the\ two\ integers\r\n\ inputed,\ a\ and\ b,\ using\ the\ Euclidean\ Algorithm\ or\ Euclid's\r\n\ algorithm.\ The\ Euclidean\ Algorithm\ repeatedly\ replaces\ the\ \r\n\ bigger\ of\ the\ two\ numbers\ with\ the\ difference\ between\ the\r\n\ two\ numbers,\ until\ they\ are\ equal.\ This\ works\ due\ to\ the\r\n\ property\ of\ numbers\ to\ retain\ their\ greatest\ common\r\n\ denominator\ when\ subtracted\ from\ each\ other.\ As\ the\ algorithm\r\n\ repeats,\ the\ difference\ between\ the\ two\ numbers\ shrinks\ until\r\n\ the\ two\ numbers\ are\ the\ same,\ and\ are\ equivalent\ to\ the\r\n\ greatest\ common\ denominator.\r\n\ \r\n\ @param\ a\ \ The\ first\ of\ the\ two\ numbers\ whose\ greatest\ common\r\n\ \ \ \ \ \ \ \ \ \ \ denominator\ is\ being\ found\ and\ returned.\r\n\ @param\ b\ \ The\ second\ of\ the\ two\ numbers\ whose\ greatest\ common\r\n\ \ \ \ \ \ \ \ \ \ \ denominator\ is\ being\ found\ and\ returned.\r\n\ @ret\ \ \ \ \ \ The\ greatest\ common\ denominator\ of\ a\ and\ b\ according\r\n\ \ \ \ \ \ \ \ \ \ \ to\ the\ Euclidean\ Algorithm\r\n
+numComments=4
