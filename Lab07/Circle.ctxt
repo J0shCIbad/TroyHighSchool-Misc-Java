@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.params=x
+comment0.target=Circle(double)
+comment0.text=\r\n\ Constructs\ a\ circle\ with\ initial\ radius\ specified\ by\ x.\r\n\ @param\ x\ \ \ \ initial\ radius\r\n
+comment1.params=
+comment1.target=double\ getRadius()
+comment1.text=\r\n\ Returns\ the\ circle's\ radius\r\n\ @return\ \ \ radius\r\n
+comment2.params=x
+comment2.target=void\ setRadius(double)
+comment2.text=\r\n\ Sets\ the\ radius\ to\ the\ input\ number.\r\n\ @param\ x\ \ assigns\ x\ to\ myRadius\r\n
+comment3.params=
+comment3.target=double\ findArea()
+comment3.text=\r\n\ Calculates\ and\ returns\ the\ circle's\ area.\r\n\ @return\ \ \ area\r\n
+comment4.params=
+comment4.target=double\ findCircumference()
+comment4.text=\r\n\ Calculates\ and\ returns\ the\ circle's\ circumference.\r\n\ @return\ \ \ circumference\r\n
+numComments=5

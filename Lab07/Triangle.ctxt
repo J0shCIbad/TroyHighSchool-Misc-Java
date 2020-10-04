@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.params=x
+comment0.target=Triangle(double)
+comment0.text=\r\n\ Constructs\ an\ equilateral\ triangle\ with\ initial\ side\ length\ \r\n\ specified\ by\ x.\r\n\ @param\ x\ \ \ \ initial\ side\ length\r\n
+comment1.params=
+comment1.target=double\ getSide()
+comment1.text=\r\n\ Returns\ the\ triangle's\ side\ length\r\n\ @return\ \ \ sideLength\r\n
+comment2.params=x
+comment2.target=void\ setSide(double)
+comment2.text=\r\n\ Sets\ the\ side\ length\ to\ the\ input\ number.\r\n\ @param\ x\ \ assigns\ x\ to\ side\ lengths\r\n
+comment3.params=
+comment3.target=double\ findArea()
+comment3.text=\r\n\ Calculates\ and\ returns\ the\ equilateral\ triangle's\ area.\r\n\ @return\ \ \ area\r\n
+comment4.params=
+comment4.target=double\ findPerimeter()
+comment4.text=\r\n\ Calculates\ and\ returns\ the\ equilateral\ triangle's\ perimeter.\r\n\ @return\ \ \ perimeter\r\n
+numComments=5

@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=
+comment0.target=PolkaDotPanel()
+comment0.text=\ \r\n\ \ Constructs\ the\ panel\ by\ initializing\ the\ BufferedImage\:\ myImage,\ with\ the\ dimensions\ FRAME\ x\ FRAME\ and\ with\ the\ color\ BACKGROUND;\r\n\ \ the\ Graphics\ component\:\ myBuffer,\ which\ is\ set\ equal\ to\ the\ Graphics\ component\ of\ myImage\ and\ with\ a\ rectangle\ drawn\ therin\ with\r\n\ \ the\ dimensions\ FRAME\ x\ FRAME\ and\ the\ color\ BACKGROUND;\ a\ Polkadot\ component,\ pd;\ and\ a\ Timer\ component,\ t,\ which\ is\ started\ to\r\n\ \ begin\ performing\ its\ actions\ (specified\ in\ actionPerformed\ method).\r\n
+comment1.params=g
+comment1.target=void\ paintComponent(java.awt.Graphics)
+comment1.text=\ \r\n\ \ Paints\ the\ Image\ upon\ the\ Graphics\ component,\ g,\ with\ the\ image,\ myImage,\ and\ with\ the\ dimension\ of\ the\ panel.\r\n\ \ \r\n\ \ @param\ g\ \ \ \ Graphics\ component\ in\ which\ the\ Image\ component\ is\ to\ be\ drawn\ upon.\r\n
+numComments=2

@@ -1,0 +1,23 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Ball()
+comment0.text=\r\n\ Constructs\ \r\n
+comment1.params=x\ y\ dia\ c
+comment1.target=Ball(double,\ double,\ double,\ java.awt.Color)
+comment1.text=\r\n\ \r\n
+comment2.params=x
+comment2.target=void\ setdx(double)
+comment2.text=\r\n\ Sets\ the\ horizontal\ speed\ of\ the\ ball,\ that\ is,\ the\ double\ value,\ dx,\ to\ the\ double\ value,\ x.\r\n\ \r\n\ @param\ x\ \ \ \ \ The\ double\ value\ which\ the\ horizontal\ speed,\ dx,\ is\ to\ be\ set\ to.\r\n
+comment3.params=y
+comment3.target=void\ setdy(double)
+comment3.text=\r\n\ Sets\ the\ vertical\ speed\ of\ the\ ball,\ that\ is,\ the\ double\ value,\ dy,\ to\ the\ double\ value,\ y.\r\n\ \r\n\ @param\ y\ \ \ \ \ The\ double\ value\ which\ the\ vertical\ speed,\ dy,\ is\ to\ be\ set\ to.\r\n
+comment4.params=
+comment4.target=double\ getdx()
+comment4.text=\r\n\ Returns\ the\ horizontal\ speed\ of\ the\ ball,\ that\ is,\ the\ double\ value,\ dx.\r\n\ \r\n\ @return\ \ \ \ \ \ The\ horizontal\ speed\ of\ the\ ball,\ that\ is,\ the\ double\ value,\ dx.\r\n
+comment5.params=
+comment5.target=double\ getdy()
+comment5.text=\r\n\ Returns\ the\ vertical\ speed\ of\ the\ ball,\ that\ is,\ the\ double\ value,\ dy.\r\n\ \r\n\ @return\ \ \ \ \ \ The\ vertical\ speed\ of\ the\ ball,\ that\ is,\ the\ double\ value,\ dy.\r\n
+comment6.params=rightEdge\ bottomEdge
+comment6.target=void\ move(double,\ double)
+comment6.text=\r\n\ Moves\ around\ within\ the\ horizontal\ bounds\:\ [0,\ rightEdge],\ and\ the\ vertical\ bounds\:\ [0,\ bottomEdge],\ with\ a\r\n\ horizontal\ speed\ of\ dx,\ and\ vertical\ speed\ of\ dy.\ When\ reaching\ the\ bounds,\ the\ ball\ bounces\ off\ the\ bounds\ at\r\n\ a\ direction\ inverse\ to\ that\ of\ its\ former\ direction.\r\n
+numComments=7

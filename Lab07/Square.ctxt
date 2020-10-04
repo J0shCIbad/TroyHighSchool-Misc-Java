@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.params=x
+comment0.target=Square(double)
+comment0.text=\r\n\ Constructs\ a\ square\ with\ initial\ side\ length\ specified\ by\ x.\r\n\ @param\ x\ \ \ \ initial\ side\ length\r\n
+comment1.params=
+comment1.target=double\ getSide()
+comment1.text=\r\n\ Returns\ the\ square's\ side\ length\r\n\ @return\ \ \ sideLength\r\n
+comment2.params=x
+comment2.target=void\ setSide(double)
+comment2.text=\r\n\ Sets\ the\ side\ length\ to\ the\ input\ number.\r\n\ @param\ x\ \ assigns\ x\ to\ side\ lengths\r\n
+numComments=3

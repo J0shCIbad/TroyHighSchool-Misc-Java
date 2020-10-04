@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=
+comment0.target=PrizePanel()
+comment0.text=\r\n\ The\ constructs\ the\ PrizePanel\ which\ includes\ the\ background,\ the\ \r\n\ Ball\ object,\ the\ Polkadot\ object,\ and\ the\ Timer.\ It\ sets\ the\ \r\n\ postion\ of\ both\ the\ Ball\ and\ the\ Polkadot\ at\ random\ positions.\ \r\n\ Lastly,\ it\ initializes\ the\ time,\ creates\ a\ Mouse\ object,\r\n\ and\ sets\ it\ as\ the\ MouseListener\ and\ the\ MouseMotionListener\r\n\ of\ the\ PrizePanel.\r\n
+comment1.params=g
+comment1.target=void\ paintComponent(java.awt.Graphics)
+comment1.text=\r\n\ Draws\ the\ image\ of\ myImage\ onto\ the\ panel.\r\n\ \r\n\ @param\ g\ \ \ \ \ Graphics\ object\ that\ draws\ the\ image.\r\n
+comment2.params=ballIn\ pDot
+comment2.target=void\ collide(Ball,\ Polkadot)
+comment2.text=\r\n\ Checks\ to\ see\ if\ the\ Ball\ hits\ the\ Polkadot\ by\ making\ sure\ the\ \r\n\ distance\ between\ the\ two\ objects\ is\ less\ than\ or\ equal\ to\ the\ \r\n\ sum\ of\ the\ radii\ of\ both\ objects,\ respectively.\ If\ the\ distance\ \r\n\ is\ less\ than\ the\ sum\ of\ the\ radii\ of\ both\ objects,\ then\ the\ \r\n\ number\ of\ hits\ is\ incremented\ by\ 1\ and\ the\ position\ of\ the\ \r\n\ Polkadot\ is\ changed.\r\n\ \r\n\ @param\ ballIn\ \ \ \ The\ Ball\ object.\r\n\ @param\ pDot\ \ \ \ \ \ The\ Polkadot\ object.\r\n
+comment3.params=x1\ y1\ x2\ y2
+comment3.target=double\ distance(double,\ double,\ double,\ double)
+comment3.text=\r\n\ Calculates\ the\ distance\ between\ the\ Ball's\ position\ and\ Polkadot's\ \r\n\ position\ through\ the\ distance\ formula.\r\n\ \r\n\ @param\ x1\ \ \ \ Double\ value\ that\ is\ the\ x-coordinate\ of\ the\ Ball's\r\n\ \ \ \ \ \ \ \ \ \ \ \ \ \ position.\r\n\ @param\ y1\ \ \ \ Double\ value\ that\ is\ the\ y-coordinate\ of\ the\ Ball's\r\n\ \ \ \ \ \ \ \ \ \ \ \ \ \ position.\r\n\ @param\ x2\ \ \ \ Double\ value\ that\ is\ the\ x-coordinate\ of\ the\ \r\n\ \ \ \ \ \ \ \ \ \ \ \ \ \ Polkadot's\ position.\r\n\ @param\ y2\ \ \ \ Double\ value\ that\ is\ the\ y-coordinate\ of\ the\ \r\n\ \ \ \ \ \ \ \ \ \ \ \ \ \ Polkadot's\ position.\r\n
+numComments=4
