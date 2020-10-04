@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=num\ leftBound\ rightBound
+comment0.target=Fraction\ getApproximation(double,\ Fraction,\ Fraction)
+comment0.text=\r\n\ \ \ \ \ 0\ <\ num\ <\ 1\r\n\ \r\n\ \ \ \ \ 0\ <\=\ f1\ <\=\ 1,\ \ 0\ <\=\ f2\ <\=\ 1\r\n\ \ \ \ \ \r\n\ \ \ \ \ returns\ a\ Fraction\ with\ in\ 0.001\ of\ num\r\n
+comment1.params=n
+comment1.target=java.util.List\ generateOrder(int)
+comment1.text=\r\n\ \ \ n\ >\=\ 1\r\n\ \ \ \r\n\ \ \ n\ <\ 25\r\n\ \ \ \r\n\ \ \ return\ List\ must\ be\ sorted\ in\ ascending\ order\r\n
+numComments=2

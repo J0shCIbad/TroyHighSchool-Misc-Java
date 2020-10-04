@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.params=numSides
+comment0.target=DiceFromPennies(int)
+comment0.text=\r\n\ \ \ \ 1\ <\ numSides\ <\=\ 32\r\n
+comment1.params=pennies
+comment1.target=int\ getRoll(java.lang.String)
+comment1.text=\r\n\ \ \ \ thou\ shall\ not\ modifiy\ pennies\r\n
+comment2.params=numDice\ pennies
+comment2.target=int\ getRolls(int,\ java.lang.String)
+comment2.text=\r\n\ \ \ \ thou\ shall\ not\ modifiy\ pennies\r\n\ \ \ \ \r\n\ \ \ \ 0\ <\ numDice\ <\=\ 50\r\n
+numComments=3

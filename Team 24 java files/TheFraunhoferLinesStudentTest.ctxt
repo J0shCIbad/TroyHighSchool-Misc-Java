@@ -1,0 +1,5 @@
+#BlueJ class context
+comment0.params=
+comment0.target=void\ testFraunhoferLines01()
+comment0.text=\r\n\ \ \ Spectrum\:\r\n\ \ \ \r\n\ \ \ \ \ true\ \ \=\ light\ is\ NOT\ absorbed\r\n\ \ \ \ \ \r\n\ \ \ \ \ false\ \=\ dark\ band\ is\ absorbed\r\n
+numComments=1

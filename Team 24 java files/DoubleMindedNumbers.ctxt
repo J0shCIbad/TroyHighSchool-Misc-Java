@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.params=num
+comment0.target=boolean\ isDoubleMindedNumber(int)
+comment1.params=num
+comment1.target=int\ distanceToNextDoubleMindedNumber(int)
+comment2.params=min\ max
+comment2.target=int[]\ getDoubleMindedBetween(int,\ int)
+comment2.text=\ \ \ \r\n\ \ \ \ include\ min\ and\ max\r\n
+numComments=3

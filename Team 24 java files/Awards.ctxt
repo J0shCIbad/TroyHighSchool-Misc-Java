@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.params=temp
+comment0.target=Awards(java.util.List)
+comment1.params=
+comment1.target=Player\ getMVP()
+comment1.text=\ \ \ \r\n\ \ \ This\ methods\ determines\ and\ returns\ the\ Player\ selected\ as\ MVP\r\n
+comment2.params=
+comment2.target=Player\ getOffensivePlayer()
+comment2.text=\ \ \ \r\n\ \ \ This\ methods\ determines\ and\ returns\ the\ Player\ selected\ as\ Offensive\ Player\r\n\ \ \ \r\n\ \ \ remember,\ the\ Player\ winning\ MVP\ SHALL\ be\ selected\ for\ this\ award\r\n
+comment3.params=
+comment3.target=Player\ getDefensivePlayer()
+comment3.text=\ \ \ \r\n\ \ \ This\ methods\ determines\ and\ returns\ the\ Player\ selected\ as\ Defensive\ Player\r\n\ \ \ \r\n\ \ \ remember,\ the\ Player\ winning\ MVP\ or\ Offensive\ Player\ SHALL\ be\ selected\ for\ this\ award\r\n
+comment4.params=
+comment4.target=Player\ getMostEffective()
+comment4.text=\ \ \ \r\n\ \ \ This\ methods\ determines\ and\ returns\ the\ Player\ selected\ as\ Most\ Effective\ Player\r\n\ \ \ \r\n\ \ \ remember,\ the\ Player\ winning\ MVP,\ Offensive\ Player\ or\ Defensive\ Player\ SHALL\ be\ selected\ for\ this\ award\r\n
+numComments=5

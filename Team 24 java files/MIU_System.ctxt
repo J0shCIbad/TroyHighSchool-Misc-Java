@@ -1,0 +1,23 @@
+#BlueJ class context
+comment0.params=s
+comment0.target=MIU_System(java.lang.String)
+comment0.text=\r\n\ \ \ s.indexOf("M")\ \=\=\ 0\r\n\ \ \ \r\n\ \ \ s.substring(1).indexOf("M")\ \=\=\ -1\r\n\ \ \ \r\n\ \ \ Make\ a\ copy\ of\ s\r\n
+comment1.params=
+comment1.target=java.lang.String\ doubleAfterM()
+comment1.text=\r\n\ \ \ double\ entire\ String\ following\ M\r\n\ \ \ \r\n\ \ \ Do\ not\ modify\ seed\r\n
+comment2.params=
+comment2.target=java.lang.String\ endsWithI()
+comment2.text=\r\n\ \ \ ends\ with\ I,\ add\ U\r\n\ \ \ \r\n\ \ \ Do\ not\ modify\ seed\r\n
+comment3.params=
+comment3.target=java.lang.String\ trade3IsForSingleU()
+comment3.text=\r\n\ \ \ 3\ consecutive\ I's\ can\ be\ replaced\ by\ a\ single\ U\r\n\ \ \ \r\n\ \ \ if\ more\ than\ one\ string\ of\ 3\ consecutive\ I's\ exist,\r\n\ \ \ \ \ \ replace\ the\ first\ (lowest\ index)\ group\ of\ 3\ consecutive\ I's\r\n\ \ \ \r\n\ \ \ Do\ not\ modify\ seed\r\n
+comment4.params=
+comment4.target=java.lang.String\ remove2Us()
+comment4.text=\r\n\ \ \ All\ occurences\ of\ UU\ are\ removed\r\n\ \ \ \r\n\ \ \ Do\ not\ modify\ seed\r\n
+comment5.params=target
+comment5.target=boolean\ isPossible(java.lang.String)
+comment5.text=\r\n\ \ \ return\ true\ if\ applying\ any\ of\ the\ MIU_System\ modifications\ will\ create\ the\ String\ target\r\n\ \ \ \ \ \ \ \ endsWithI\r\n\ \ \ \ \ \ \ \ doubleAfterM\r\n\ \ \ \ \ \ \ \ trade3IsForSingleU\r\n\ \ \ \ \ \ \ \ remove2Us\r\n\ \ \ \r\n\ \ \ Do\ not\ modify\ seed\r\n
+comment6.params=target
+comment6.target=int\ minNumModifications(java.lang.String)
+comment6.text=\r\n\ \ \ return\ minimum\ number\ of\ MIU_System\ modifications\ methods\ required\ to\ change\ seed\ such\ that\ it\ is\ equals\ to\ target\r\n\ \ \ \r\n\ \ \ It\ is\ possible\ to\ modify\ (a\ copy\ of)\ seed\ such\ that\ it\ is\ equal\ to\ target\ using\ 9\ or\ fewer\ of\ the\ modifing\ methods\ in\ this\ class\r\n\ \ \ \r\n\ \ \ Do\ not\ modify\ seed\r\n\ \ \ \r\n\ \ \ max\ returned\ value\ <\ 10\r\n
+numComments=7

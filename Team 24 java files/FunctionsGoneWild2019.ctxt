@@ -1,0 +1,27 @@
+#BlueJ class context
+comment0.params=a\ n
+comment0.target=int\ f1(int,\ int)
+comment0.text=\r\n\ \ \ \r\n
+comment1.params=a1\ a2\ b1\ b2
+comment1.target=int\ f2(double,\ double,\ double,\ double)
+comment1.text=\r\n\ \ \ \ a1\ <\ a2\ \ &&\ b1\ <\ b2\r\n
+comment2.params=n
+comment2.target=int\ f3(int)
+comment2.text=\r\n\ \ \ \ \r\n
+comment3.params=a\ b\ c
+comment3.target=int\ f4(int,\ int,\ int)
+comment4.params=c\ lev
+comment4.target=java.lang.String\ f5(java.lang.String,\ double)
+comment5.params=x\ y\ z
+comment5.target=double\ f6(double,\ double,\ double)
+comment6.params=phr1\ phr2
+comment6.target=int\ f7(java.lang.String,\ java.lang.String)
+comment6.text=\r\n\ \ If\ the\ corresponding\ letters\ are\ matching\ Upper\ case\ letter,\ increase\ score\ by\ 5.\r\n\ \ If\ the\ corresponding\ letters\ are\ matching\ Lower\ case\ letter,\ increase\ score\ by\ 4.\r\n\ \ If\ the\ corresponding\ letters\ match\ but\ are\ different\ case\ (Lower/Upper),\ increase\ score\ by\ 3\r\n\ \ If\ the\ corresponding\ letters\ are\ matching\ non\ letters\ (\ only\ need\ to\ check\ for\ @,\ \#,\ &\ or\ *)\ increase\ score\ by\ 2\r\n\ \ All\ others\ do\ not\ increase\ or\ decrease\ score.\r\n\r\n\ \ precondition\ phr1.length()\ \=\=\ \ phr2.length()\r\n
+comment7.params=phrase
+comment7.target=java.lang.String\ f8(java.lang.String)
+comment7.text=\r\n\ \ \ \ \ precondtion\:\ \ phrase\ and\ String\ will\ only\ contain\:\r\n\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ lower\ case\ letters\r\n\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ spaces\r\n\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \r\n\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ phrase.length()\ >\=\ 0\r\n
+comment8.params=x\ y\ z
+comment8.target=boolean\ f9(boolean,\ boolean,\ boolean)
+comment9.params=j\ k\ m\ n
+comment9.target=boolean\ f10(boolean,\ boolean,\ boolean,\ boolean)
+numComments=10

@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.params=els
+comment0.target=FraunhoferLines(java.util.List)
+comment0.text=\r\n\ \ \ \ THou\ SHALL\ never\ change\ els.\r\n
+comment1.params=spectrum
+comment1.target=java.util.List\ getPossibleElements(boolean[])
+comment1.text=\r\n\ \ \ \ returns\ a\ List<Element>\ containing\ all\ possible\ Elements\ in\ elements\r\n\ \ \ \ \r\n\ \ \ \ every\ Element\ in\ elements\ \r\n
+comment2.params=a\ b
+comment2.target=boolean\ equal(boolean[],\ boolean[])
+comment3.params=spectrum
+comment3.target=java.util.List\ getRequiredElements(boolean[])
+comment4.params=spectrum
+comment4.target=java.util.List\ getMissingBands(boolean[])
+comment4.text=\r\n\ \ \ \r\n
+numComments=5

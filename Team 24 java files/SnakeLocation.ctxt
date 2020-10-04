@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.params=a\ b
+comment0.target=SnakeLocation(int,\ int)
+comment0.text=\r\n\ Constructor\ for\ objects\ of\ class\ Point\r\n
+comment1.params=
+comment1.target=int\ getX()
+comment2.params=
+comment2.target=int\ getY()
+comment3.params=
+comment3.target=int\ hashCode()
+comment4.params=obj
+comment4.target=boolean\ equals(java.lang.Object)
+numComments=5

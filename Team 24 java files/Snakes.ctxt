@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.params=w\ sb
+comment0.target=Snakes(java.lang.String[][],\ java.util.List)
+comment0.text=\r\n\ \ \ w.length\ >\ 0\r\n\ \ \ w[0].length\ >\ 0\r\n\ \ \ \r\n\ \ \ for\ all\ m,n,\ 0\ <\ m,n\ <\ w.length\r\n\ \ \ \ \ \ \ \ \ w[m].length\ \=\=\ w[n].length\r\n\ \ \ \ \ \ \ \ \ "F\ ".indexof(w[m][n])\ >\=\ 0\r\n\ \ \ \ \ \ \ \ \ \r\n\ \ \ \ \ "F"\ ->\ food\ -\ snake\ grows\ one\ body\ part\r\n\ \ \ \ \ "\ "\ ->\ empty\ cell\ in\ board\r\n\ \ \ \ \ \r\n\ \ \ \ \ MAKE\ YOUR\ OWN\ COPY\ OF\ w\!\!\!\!\!\!\!\!\r\n\ \ \ \ \ THOU\ SHALL\ NOT\ modify\ w\r\n\ \ \ \ \ thy\ methods\ SHALL\ NEVER\ change\ w\r\n\ \ \ \r\n\ \ \ MAKE\ YOUR\ OWN\ COPY\ OF\ sb\!\!\!\!\!\!\!\!\r\n\ \ \ THOU\ SHALL\ NOT\ modify\ sb\r\n\ \ \ thy\ methods\ SHALL\ NEVER\ change\ sb\r\n\ \r\n\ \ \ sb\ is\ a\ list\ containing\ the\ SnakeLocation\ of\ all\ the\ snakes\ body\ parts\ \r\n\ \ \ the\ head\ of\ the\ snake\ is\ at\ SnakeLocation\ sb.get(0)\r\n\ \ \ \r\n\ \ \ the\ current\ direction\ of\ the\ snake\ be\ determine\ using\ sb.get(0)\ and\ sb.get(1)\r\n
+comment1.params=
+comment1.target=java.lang.String\ getDirection()
+comment2.params=m
+comment2.target=boolean\ move(java.lang.String)
+comment2.text=\r\n\ \ \ m.length()\ \=\=\ 1\r\n\ \ \ m\ will\ always\ be\ upper\ case\r\n\r\n\ \ \ "UDLRC".indexOf(m)\ >\=\ 0\r\n\ \ \ if\ m.equals("U")\ snake\ head\ moves\ up\ (from\ row\ n\ to\ row\ n-1)\r\n\ \ \ if\ m.equals("D")\ snake\ head\ moves\ down\ (from\ row\ n\ to\ row\ n+1)\r\n\ \ \ if\ m.equals("L")\ snake\ head\ moves\ left\ (from\ col\ m\ to\ col\ m-1)\r\n\ \ \ if\ m.equals("R")\ snake\ head\ moves\ right\ (from\ col\ m\ to\ col\ m+1)\r\n\ \ \ if\ m.equals("\ ")\ snake\ head\ continues\ to\ move\ in\ the\ same\ direction\ it\ previously\ moved\r\n\ \ \ \r\n\ \ \ if\ the\ snake's\ head\ runs\ into\ itself\ ....\r\n\ \ \ if\ the\ snake's\ head\ encouoters\ a\ "F"\ ....\r\n\ \ \ if\ the\ snake's\ head\ encounters\ a\ "\ "\ ....\r\n\ \ \ if\ the\ snake's\ head\ encounters\ a\ "S"\ ....\r\n\ \ \ \r\n\ \ \ returns\ true\ if\ the\ snake\ does\ NOT\ run\ into\ itself\ and\ does\ NOT\ move\ out\ of\ the\ world\r\n\ \ \ \ \ \ \ \ \ \ \ false\ if\ the\ snake\ DOES\ run\ into\ itself\ or\ snake\ moves\ out\ of\ the\ world\r\n
+comment3.params=
+comment3.target=java.util.List\ getSnakeBody()
+comment3.text=\r\n\ \ \ Returns\ the\ snake\ body\ \r\n
+numComments=4

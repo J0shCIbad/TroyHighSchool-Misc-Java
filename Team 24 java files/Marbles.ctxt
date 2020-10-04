@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=b
+comment0.target=Marbles(java.util.List)
+comment0.text=\r\n\ \ \ Make\ your\ List.\r\n\ \ \ \r\n\ \ \ DO\ NOT\ modify\ b\r\n\ \ \ \r\n
+comment1.params=numMarbles
+comment1.target=int\ getMinSum(int)
+comment1.text=\r\n\ \ \ \ numMarbles\ <\ bag.size()\r\n
+comment2.params=numMarbles
+comment2.target=int\ getMaxSum(int)
+comment2.text=\r\n\ \ \ \ numMarbles\ <\ bag.size()\r\n
+comment3.params=numMarbles\ target
+comment3.target=Fraction\ getProbability(int,\ int)
+comment3.text=\r\n\ \ \ \ numMarbles\ <\ bag.size()\r\n
+numComments=4

@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.params=n\ d
+comment0.target=Fraction(int,\ int)
+comment0.text=\r\n\ Constructor\ for\ objects\ of\ class\ Fraction\r\n
+comment1.params=
+comment1.target=int\ getNumerator()
+comment2.params=
+comment2.target=int\ getDenominator()
+comment3.params=
+comment3.target=void\ reduce()
+comment4.params=a\ b
+comment4.target=int\ gcm(int,\ int)
+comment5.params=
+comment5.target=int\ hashCode()
+comment6.params=obj
+comment6.target=boolean\ equals(java.lang.Object)
+comment7.params=i
+comment7.target=int\ compareTo(java.lang.Object)
+comment8.params=
+comment8.target=double\ val()
+numComments=9
