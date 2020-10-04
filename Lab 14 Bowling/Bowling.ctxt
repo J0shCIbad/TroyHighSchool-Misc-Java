@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Bowling()
+comment0.text=\r\n\ Constructor\ for\ the\ Bowling\ class.\ All\ private\ variables\ are\r\n\ instantiated.\ The\ user\ is\ prompted\ with\ a\ message\ dialog\ box\ to\r\n\ enter\ their\ scores.\ Ten-pin\ bowling\ scoring\ rules\ are\ used.\ After\r\n\ all\ scores\ are\ entered,\ the\ user\ is\ shown\ their\ final\ score.\r\n
+comment1.params=invalid
+comment1.target=java.lang.String\ message(boolean)
+comment1.text=\r\n\ Creates\ the\ appropriate\ message\ to\ be\ displayed\ by\ the\ input\r\n\ dialog\ box\ composing\ of\ the\ total\ scores,\ the\ frame\ number,\ and\ \r\n\ ball\ number.\ Also,\ if\ the\ previous\ entry\ was\ invalid,\ the\ user\r\n\ will\ be\ informed\ that\ the\ previous\ entry\ was\ "Invalid\!"\r\n\ \r\n\ @param\ invalid\ \ \ Boolean\ value\ of\ whether\ or\ not\ the\ previous\ \r\n\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ user\ entry\ was\ valid,\ in\ order\ to\ inform\ the\r\n\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ user\ that\ the\ previous\ entry\ was\ invalid.\r\n
+comment2.params=args
+comment2.target=void\ main(java.lang.String[])
+comment2.text=\r\n\ Creates\ an\ instance\ of\ the\ bowling\ class.\ The\ user\ may\ engage\ in\ a\r\n\ series\ of\ input\ and\ output\ interactions\ in\ order\ to\ keep\ track\r\n\ of\ their\ ten-pin\ bowling\ scores.\r\n\ \r\n\ @param\ args\ \ An\ array\ of\ string\ values\ which\ is\ ran\ by\ the\ program.\r\n
+numComments=3
